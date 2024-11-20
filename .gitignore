@@ -1,0 +1,96 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# pip and poetry artifacts
+*.log
+pip-log.txt
+pip-delete-this-directory.txt
+*.env
+
+# Test and coverage results
+.coverage
+*.cover
+*.py,cover
+coverage.xml
+htmlcov/
+.tox/
+.nox/
+.cache/
+pytest_cache/
+nosetests.xml
+coverage/
+*.egg-info/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyInstaller
+# Usually contains the build artifacts
+build/
+dist/
+*.spec
+
+# Installer logs
+*.egg
+*.egg-info/
+.eggs/
+.installed.cfg
+
+# Django stuff
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask instance folder
+instance/
+
+# Scrapy stuff
+.scrapy/
+
+# Sphinx documentation
+docs/_build/
+
+# PyCharm project files
+.idea/
+
+# VS Code project files
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Windows thumbnail database files
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+*.orig
+*.rej
+
+# Logs
+*.log
+*.out
+*.err
